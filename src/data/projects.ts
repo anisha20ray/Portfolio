@@ -5,7 +5,7 @@ export const projects: Project[] = [
     id: 1,
     title: "Job Sprint",
     description: "A Job Portal Website built using the MERN stack is a platform that connects recruiters and students (job seekers).",
-    image: "/assets/Job Portal.png",
+    image: "/assets/Job Sprint.png",
     technologies: ["MERN Stack","Multer","Cloudinary"],
     githubUrl: "https://github.com/anisha20ray/JobSprint",
     liveUrl: "https://jobsprintanisharay.onrender.com "
